@@ -6,17 +6,16 @@ http://202.80.222.182/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1200px-SCTV_Logo.svg.png" group-title="INDONESIA",SCTV
 http://202.80.222.182/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:1 tvg-logo="https://img.okezone.com/content/2017/05/29/598/1702754/mnctv-gelar-konser-ramadan-cek-jadwalnya-di-sini-1etyEf5oOu.jpg" group-title="LOKAL",MNC
+#EXTINF:1 tvg-logo="https://img.okezone.com/content/2017/05/29/598/1702754/mnctv-gelar-konser-ramadan-cek-jadwalnya-di-sini-1etyEf5oOu.jpg" group-title="INDONESIA",MNC
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LOKAL",ANTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="INDONESIA",ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:1 tvg-logo="https://media.tabloidbintang.com/files/thumb/rcti-logo1.jpg/745",group-title="LOKAL",RCTI HD
+#EXTINF:1 tvg-logo="https://media.tabloidbintang.com/files/thumb/rcti-logo1.jpg/745",group-title="INDONESIA",RCTI HD
 http://id8.indostreamingtv.com/live/tv66/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newstvstreaming.com/wp-content/uploads/2014/04/Metro-TV-Indonesia-Logo.jpg" group-title="INDONESIA",MetroTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newstvstreaming.com/wp-content/uploads/2014/04/Metro-TV-Indonesia-Logo.jpg" group-title="INDONESIA",MetroTV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
