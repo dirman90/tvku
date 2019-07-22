@@ -27,11 +27,11 @@ http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Trans_TV_2013.svg/800px-Trans_TV_2013.svg.png" group-title="INDONESIA",TRANSTV
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="INDONESIA",Global TV
+http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9e/RtvIndonesia.png" group-title="LOKAL",RTV
 http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="INDONESIA",CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/2/2e/20170424142145%21Logo-Kompas_TV.png" group-title="LOKAL",Kompas TV
 http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -39,17 +39,3 @@ http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-30awn5OxihI/T9VuzQQ5RqI/AAAAAAAADRM/_iPdRJhYiwQ/s1600/logo-lpp-tvri.png" group-title="INDONESIA",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
-#EXTINF:-1 tvg-id="63b3f2517c047c6fdba22dea9b67e2ff",Skynet Sports 1 [KP]
-http://221.127.10.70:9981/stream/channelid/1374860131?ticket=8C91C4D6B47E457E496F4BB6CD4D8C2E633E1FEA&profile=pass
-#EXTINF:-1 tvg-id="5bda401fe837a9b603073cfdf7ab06e8",Skynet Sports 2 [KP]
-http://221.127.10.70:9981/stream/channelid/524343899?ticket=5124AE188F3590C19B65F591A11F10DFDFC50FA8&profile=pass
-#EXTINF:-1 tvg-id="ff7f7f812d176a19f9022f551f9f7a23",Skynet Sports 3 [KP]
-http://221.127.10.70:9981/stream/channelid/25133055?ticket=0FFCDA053D739D39D247A191A812F7E058F4A7A1&profile=pass
-#EXTINF:-1 tvg-id="db53bdaad3a5d95d9761e7e55d9cbe42",Skynet Sports 4 [KP]
-http://221.127.10.70:9981/stream/channelid/717050843?ticket=4CE604F8F3C98A901AE04D237AADD2FD61788C99&profile=pass
-#EXTINF:-1 tvg-id="14066b1a60c34c53f170c802fa804368",Skynet Sports 5 [KP]
-http://221.127.10.70:9981/stream/channelid/443221524?ticket=DCC5FC5033901432DEF36174DFEED6B713570CB0&profile=pass
-#EXTINF:-1 tvg-id="119ddfb1357b62921b442ab2e893022b",Skynet Sports 6 [KP]
-http://221.127.10.70:9981/stream/channelid/836738321?ticket=3EEB1EC712BA8700DDCDF011E7D44E5E243F6B9E&profile=pass
-#EXTINF:-1 tvg-id="ab8e134ced3f4c3a85eeed600fceda07",Skynet Sports HD [KP]
-http://221.127.10.70:9981/stream/channelid/1276350123?ticket=1C1FFCA33D3EF28C96D8247A111B4D8975D9B247&profile=pass
