@@ -17,3 +17,6 @@ http://id8.indostreamingtv.com/live/tv66/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newstvstreaming.com/wp-content/uploads/2014/04/Metro-TV-Indonesia-Logo.jpg" group-title="INDONESIA",MetroTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newstvstreaming.com/wp-content/uploads/2014/04/Metro-TV-Indonesia-Logo.jpg" group-title="INDONESIA",MetroTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
