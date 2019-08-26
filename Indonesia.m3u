@@ -13,7 +13,7 @@ http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=0
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:1 tvg-logo="https://media.tabloidbintang.com/files/thumb/rcti-logo1.jpg/745",group-title="INDONESIA",RCTI HD
-http://id8.indostreamingtv.com/live/tv66/index.m3u8
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newstvstreaming.com/wp-content/uploads/2014/04/Metro-TV-Indonesia-Logo.jpg" group-title="INDONESIA",MetroTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
