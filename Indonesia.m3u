@@ -87,3 +87,17 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w76743512
 #EXTINF:-1,DIVA
 http://210.210.155.35/uq2663/h/h11/01.m3u8?fluxustv.m3u8#
 #EXTINF:0, group-title="Info",tvg-logo="",Nat Geo Wild
+
+#EXTM3U
+
+#EXTINF:-1,TVRI 
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,TV1 http://rtm1mobile.secureswiftcontent.com:80/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+
+#EXTINF:-2,TV2
+http://rtm2mobile.secureswiftcontent.com:80/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+
+#EXTINF:-1,RTM SPORT
+http://rtm2mobile.secureswiftcontent.com:80/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
+
