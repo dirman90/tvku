@@ -108,3 +108,12 @@ http://rtm2mobile.secureswiftcontent.com:80/Origin01/ngrp:RTM1/chunklist_b369600
 #EXTINF:-1,RTM SPORT
 http://rtm2mobile.secureswiftcontent.com:80/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
 
+
+#EXTINF:-1,TEN 1
+http://iptvsports.net:8080/skype4xchnge/jibrankhuhro/190.ch
+#EXTINF:-1,TEN sportss
+http://iptvsports.net:8080/skype4xchnge/jibrankhuhro/188.ch
+#EXTINF:-1,TEN 2
+http://iptvsports.net:8080/skype4xchnge/jibrankhuhro/189.ch
+#EXTINF:-1,ten 3
+http://iptvsports.net:8080/skype4xchnge/jibrankhuhro/199.ch
