@@ -2,139 +2,137 @@
 
 -------------- Lokal -------------
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", RCTI
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", RCTI
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", RCTI
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", RCTI 
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",RCTI 
 http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", RCTI
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",RCTI
 http://202.80.222.171:80/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", RCTI
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", RCTI
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",RCTI
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", RCTI
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",RCTI
 https://live.rctiplus.id/rctiplus/rcti_360p.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", RCTI
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",RCTI
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", RCTI
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",RCTI
 https://live.rctiplus.id/rctiplus/rcti_360p.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png", MNC
+#EXTINF:-1 tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png" group-title="Indonesia",MNC
 http://202.80.222.174/000001/2/ch14041511111714365733/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png", MNC
+#EXTINF:-1 tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png" group-title="Indonesia",MNC
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png", MNC
+#EXTINF:-1 tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png" group-title="Indonesia",MNC
 http://202.80.222.171/000001/2/ch14041511111714365733/1001.m3u8?virtualDomain=000001.live_hls.zte.com&zte_bandwidth=1001&type=.m3u8&m3u8_level=2
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png", MNC
+#EXTINF:-1 tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png" group-title="Indonesia",MNC
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png", MNC
+#EXTINF:-1 tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png" group-title="Indonesia",MNC
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png", MNC
+#EXTINF:-1 tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png" group-title="Indonesia",MNC
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png", MNC
+#EXTINF:-1 tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png" group-title="Indonesia",MNC
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png", MNC
+#EXTINF:-1 tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png" group-title="Indonesia",MNC
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png", MNC
+#EXTINF:-1 tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png" group-title="Indonesia",MNC
 http://202.80.222.182:80/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png", MNC
+#EXTINF:-1 tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png" group-title="Indonesia",MNC
 https://live.rctiplus.id/rctiplus/mnctv_360p.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png", MNC
+#EXTINF:-1 tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png" group-title="Indonesia",MNC
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png", MNC
+#EXTINF:-1 tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png" group-title="Indonesia",MNC
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", Indosiar
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",Indosiar
 http://202.80.222.174:80/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", Indosiar
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",Indosiar
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", Indosiar
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",Indosiar
 http://rr2.dens.tv/s/s04/index2.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", Indosiar
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",Indosiar
 http://rr2.dens.tv/s/s04/index2.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", Indosiar
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",Indosiar
 http://id1.indostreamingtv.com:80/live/indosiar/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", Indosiar
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",Indosiar
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", Indosiar
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",Indosiar
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", SCTV
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",SCTV
 http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", SCTV
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", SCTV
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",SCTV
 http://45.126.83.51/qwr9ew/s/s03/01.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", SCTV
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", SCTV
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",SCTV
 http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", SCTV
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",SCTV
 http://id1.indostreamingtv.com:80/live/sctv/index.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", SCTV
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",SCTV
 http://210.210.155.35/qwr9ew/s/s103/01.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", SCTV
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",SCTV
 http://rr2.dens.tv/s/s03/index1.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", SCTV
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",SCTV
 http://rr2.dens.tv/s/s03/index1.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", I NEWS
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",I NEWS
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", I NEWS
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",I NEWS
 http://202.80.222.130/000001/2/ch14041511541532132975/1000.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", I NEWS
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",I NEWS
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", I NEWS
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",I NEWS
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", I NEWS
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",I NEWS
 http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", I NEWS
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",I NEWS
 http://202.80.222.174/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 group-title="Indonesia", tvg-logo="", I NEWS
+#EXTINF:-1 tvg-logo="" group-title="Indonesia",I NEWS
 http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-h
