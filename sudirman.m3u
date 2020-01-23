@@ -2,34 +2,34 @@
 
 -------------- Lokal -------------
 
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",RCTI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Indonesia",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",RCTI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Indonesia",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",RCTI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Indonesia",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",RCTI 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Indonesia",RCTI 
 http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",RCTI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Indonesia",RCTI
 http://202.80.222.171:80/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",RCTI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Indonesia",RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",RCTI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Indonesia",RCTI
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",RCTI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Indonesia",RCTI
 https://live.rctiplus.id/rctiplus/rcti_360p.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",RCTI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Indonesia",RCTI
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Indonesia",RCTI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/74/RCTI.png" group-title="Indonesia",RCTI
 https://live.rctiplus.id/rctiplus/rcti_360p.m3u8
 
 #EXTINF:-1 tvg-logo="http://devanyahya.web.id/tvg-logo/mnctv.png" group-title="Indonesia",MNC
