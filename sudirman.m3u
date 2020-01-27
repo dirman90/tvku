@@ -142,4 +142,9 @@ http://202.80.222.171/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=0
 
 #EXTINF:-1 tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="LOKAL",  GLOBAL TV
 http://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA", GTV HD
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="INDONESIA",GLOBAL TV 2
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 
